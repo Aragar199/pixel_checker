@@ -1,5 +1,5 @@
-#Scripting Analysis
-##Prompt D: Write a script that will programmatically check whether all the impression pixels are valid
+# Scripting Analysis
+## Prompt D: Write a script that will programmatically check whether all the impression pixels are valid
 
 ### Running pixel_checker:
 Python 3 is required to run this script. You can install using Homebrew or directly from python.org. See instructions
@@ -16,7 +16,7 @@ Progress bar will run until the program is complete
 Output will indicate which tactic ids have failed including url that failed along with count of Success and Failure 
 for each url
 
-###Unit Tests:
+### Unit Tests:
 Run unit tests directly from terminal using
 `pytest -q test.py`
 
