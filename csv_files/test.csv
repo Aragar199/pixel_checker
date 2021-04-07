@@ -1,0 +1,3 @@
+id,tactic_id,creative_library_id,creative_asset_id,active,deleted,click_tracker_url,click_tracker_encoding_level,impression_pixel_json,js_pixel_json,clickthrough_pixel_json,viewability_pixel_json,last_modified
+13182,314161,12,20,1,0,NULL,0,[],NULL,NULL,NULL,2/1/16 19:01
+13198,314183,33,51,1,0,NULL,0,"[""http:\/\/magnetic.domdex.com\/ahtm?mp=12&n=4419&c=102651&b=108054&sz=300x250&s=${REFERER_URL_ENC}&id=${AUCTION_ID}&a=${PRICE_PAID}"",""http:\/\/servedby.flashtalking.com\/imp\/8\/41606;1111860;201;pixel;Magnetic;MGNativeTestAddedValue\/?cachebuster=${CACHEBUSTER}&url=http:\/\/b.scorecardresearch.com\/p?c1=3&c2=6035050&c3=41606&c4=50126&c5=1111860&c6=&c10=1&c11=${SITEID}&c13=1x1&c16=gen&cj=1&ax_fwd=1&rn=${CACHEBUSTER}&""]",NULL,NULL,NULL,2/1/16 19:01
